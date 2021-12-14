@@ -6,6 +6,7 @@ You can use download Modern Discord [here](https://raw.githubusercontent.com/Tec
 
 0.1 Initial Release
 
+## How do I install a theme?
 
 First of all, make sure you have installed [BetterDiscord](https://betterdiscord.app/)
 
